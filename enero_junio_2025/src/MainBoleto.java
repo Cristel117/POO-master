@@ -9,6 +9,8 @@ public class MainBoleto {
         b2.setAsiento("b3");
         b2.setFecha("20/02/2025");
         b2.setPrecio(90.00);
+        System.out.println(b1);
+        System.out.println(b2);
 
     }
 
